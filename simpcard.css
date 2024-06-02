@@ -1,0 +1,25 @@
+.card{
+  width:200px;
+  height:200px;
+  background-color:#ADD8E6;
+  border: 2px solid blue;
+  display: inline-block;
+  margin: 20px;
+  align-items: center; 
+  justify-content: center; 
+  text-align: center; 
+  padding-top: 150px;
+  cursor: pointer;
+}
+#Red:hover{
+  background-color:red;
+}
+#Green:hover{
+  background-color:green;
+}
+#Blue:hover{
+  background-color:blue;
+}
+#Yellow:hover{
+  background-color:yellow;
+}
